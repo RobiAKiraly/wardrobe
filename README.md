@@ -1,4 +1,3 @@
-# Outfit Maker App
 
 # ✨ Outfit Maker App: Your Personal Style Companion! ✨
 Tired of staring at your closet, wondering what to wear? The Outfit Maker App is your personal stylist, helping you organize your wardrobe and discover fresh, stylish combinations from the clothes you already own. Say goodbye to fashion dilemmas and hello to effortless style!
